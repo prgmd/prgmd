@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-# 💡 Introduction
-> Data Analysis, Cloud, Infra Architecture
   
 [![prgmd's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prgmd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,8 +15,7 @@
  </pre>
  
  ### 💿 [dig-em.com](https://dig-em.com)
- > **매일 9시 새로운 음악 컬럼과 신보 소식을 접할 수 있습니다.**
- > *(현재는 서비스 운영을 잠시 중단하였습니다)*
+
 ---
 
 # 🛠 Skills
