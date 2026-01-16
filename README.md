@@ -1,13 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprgmd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 # Introduction
 안녕하세요.
 Data Analysis와 Cloud, Infra Architecture에 관심이 많은 장준환입니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prgmd&layout=compact&theme=merko)
-![prgmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=prgmd&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prgmd)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trackcamp)](https://solved.ac/trackcamp/)
 
 # Projects
