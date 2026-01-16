@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-  
 [![prgmd's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prgmd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -38,5 +36,3 @@
   <a href="mailto:neon9008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="mailto:trackcamp@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
