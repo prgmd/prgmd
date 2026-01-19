@@ -23,6 +23,3 @@
 
 ### 🛠️ Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"> ![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
----
-[![prgmd's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prgmd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trackcamp)](https://solved.ac/trackcamp/)
