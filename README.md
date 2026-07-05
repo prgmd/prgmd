@@ -1,3 +1,40 @@
+## Jang Jun Hwan
+
+| 구분 | 내용 | 기간 |
+|:---:|:---|:---:|
+| 학력 | 건국대학교 스마트운행체공학과 | 2017.03 ~ 2024.02 |
+| 경력 | CJ ENM — 데이터 계약직 | 2024.03 ~ 2024.11 |
+| 부트캠프 | 현대오토에버 모빌리티 SW 스쿨 (클라우드 2기) | 2025.04 ~ 2025.11 |
+| 부트캠프 | 삼성청년 SW·AI 아카데미 (SSAFY 15기) | 2026.01 ~ 2026.12 |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Infra / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Data**
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/airflow-017CEE.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+
+<br/>
+
+## 📂 Projects
+
+| 기간 | 프로젝트 | 역할 | 설명 | 링크 |
+|:---:|:---|:---:|:---|:---:|
+| `25.05~` | **digem** | Full-Stack | 해외 음악 웹진의 칼럼을 자동 수집·AI 번역해 아카이빙하는 서버리스 ETL 서비스 | [Site](https://www.dig-em.com/) · [Repo](https://github.com/prgmd/digem) |
+| `25.10~25.12` | **NEVES** | MSA·Infra | 대용량 블랙박스 영상을 클라우드에 실시간 적재·재생하는 MSA 서비스 | [Repo](https://github.com/LuckyThreeSeven/WebApp) |
+| `26.05~26.06` | **beautalk** | Backend·AI | 피부 프로필 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스 | [Site](https://beautalk.site) · [Repo](https://github.com/prgmd/beautalk) |
+
+<br/>
+
 <div align="center">
   <pre>
   ____   ___  ____  _____ __  __ 
@@ -5,21 +42,8 @@
  | | | | | || |  _ |  _| | |\/| |
  | |_| | | || |_| || |___| |  | |
  |____/ |___|\____||_____|_|  |_|
-
    "dig your uncut gems"
   </pre>
 
-  <a href="https://dig-em.com">
-    <img src="https://img.shields.io/badge/Visit%20Website-BDBDC8?style=for-the-badge&logo=target&logoColor=white" />
-  </a>
+  <a href="https://dig-em.com"><img src="https://img.shields.io/badge/dig--em.com-4169E1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
-
----
-### ☁️ Infrastructure & Cloud
-<img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <img src="https://img.shields.io/badge/virtualbox-2F61B4.svg?&style=for-the-badge&logo=virtualbox&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white">
-
-### 🗄️ Database
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ Tools & Others
-<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"> ![Jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
