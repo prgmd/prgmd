@@ -7,6 +7,8 @@
 | 부트캠프 | 현대오토에버 모빌리티 SW 스쿨 (클라우드 2기) | 2025.04 ~ 2025.11 |
 | 부트캠프 | 삼성청년 SW·AI 아카데미 (SSAFY 15기) | 2026.01 ~ 2026.12 |
 
+[![Resume](https://img.shields.io/badge/Resume-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/qxksb3mem6jxwsw)
+
 <br/>
 
 ## 🛠️ Tech Stack
