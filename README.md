@@ -1,66 +1,39 @@
-## Jang Jun Hwan
-
-| 구분 | 내용 | 기간 |
-|:---:|:---|:---:|
-| 학력 | 건국대학교 스마트운행체공학과 | 2017.03 ~ 2024.02 |
-| 경력 | CJ ENM — 데이터 계약직 | 2024.03 ~ 2024.11 |
-| 부트캠프 | 현대오토에버 모빌리티 SW 스쿨 (클라우드 2기) | 2025.04 ~ 2025.11 |
-| 부트캠프 | 삼성청년 SW·AI 아카데미 (SSAFY 15기) | 2026.01 ~ 2026.12 |
-
-[![Resume](https://img.shields.io/badge/Resume-00C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/qxksb3mem6jxwsw)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Infra / DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Data**
-
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/airflow-017CEE.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br/>
-
-### digem `2025.05 ~`
-
-- 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스
-- Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스크래퍼 공통 구조화, SQL 쿼리 최적화
-- `Python` `Airflow` `GitHub Actions` `Supabase` `Redis` `Gemini API` `Next.js` `TypeScript` `Vercel`
-
-[Site](https://www.dig-em.com/) [Repo](https://github.com/prgmd/digem)
-
-### NEVES `2025.10 ~ 2025.12`
-
-- 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스
-- 사용자, 재생, 메일 서비스 분리, Terraform으로 AWS 인프라 코드화, Helm으로 쿠버네티스 배포 구성
-- `Python` `Django` `Go` `Java` `React` `AWS` `Terraform` `Kubernetes` `Helm` `Docker`
-
-[Repo](https://github.com/LuckyThreeSeven/WebApp)
-
-### beautalk `2026.05 ~ 2026.06`
-
-- 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
-- 백엔드 개발, 하이브리드 RAG 검색 구현
-- `Python` `Django` `DRF` `Vue 3` `LangChain` `ChromaDB` `AWS` `Docker` `Nginx`
-
-[Site](https://beautalk.site) [Repo](https://github.com/prgmd/beautalk)
-
-<br/>
-
-## 🧩 Algorithm
-
 <div align="center">
-  <a href="https://solved.ac/profile/trackcamp">
-    <img src="solvedac-trackcamp-v1.svg" alt="solved.ac trackcamp" width="560">
-  </a>
+  <pre>
+     _   _    _   _  ____       _ _   _ _   _   _   ___        ___    _   _ 
+    | | / \  | \ | |/ ___|     | | | | | \ | | | | | \ \      / / \  | \ | |
+ _  | |/ _ \ |  \| | |  _   _  | | | | |  \| | | |_| |\ \ /\ / / _ \ |  \| |
+| |_| / ___ \| |\  | |_| | | |_| | |_| | |\  | |  _  | \ V  V / ___ \| |\  |
+ \___/_/   \_\_| \_|\____|  \___/ \___/|_| \_| |_| |_|  \_/\_/_/   \_\_| \_|
+  </pre>
+
+  <a href="https://canva.link/qxksb3mem6jxwsw"><img src="https://img.shields.io/badge/Resume-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /></a>
 </div>
 
 <br/>
 
+### digem `2025.05 ~`
+#### 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스
+- Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스크래퍼 공통 구조화, SQL 쿼리 최적화
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[Site](https://www.dig-em.com/) [Repo](https://github.com/prgmd/digem)
+
+### NEVES `2025.10 ~ 2025.12`
+#### 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스
+- 사용자, 재생, 메일 서비스 분리, Terraform으로 AWS 인프라 코드화, Helm으로 쿠버네티스 배포 구성
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[Repo](https://github.com/LuckyThreeSeven/WebApp)
+
+### beautalk `2026.05 ~ 2026.06`
+#### 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
+- 백엔드 개발, 하이브리드 RAG 검색 구현
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square) ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-F0529C?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+[Site](https://beautalk.site) [Repo](https://github.com/prgmd/beautalk)
+
+<br/>
