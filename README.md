@@ -25,26 +25,27 @@
 
 <br/>
 
-## 📂 Projects
-
 ### digem `2025.05 ~`
 
 - 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스
 - Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스크래퍼 공통 구조화, SQL 쿼리 최적화
+- `Python` `Airflow` `GitHub Actions` `Supabase` `Redis` `Gemini API` `Next.js` `TypeScript` `Vercel`
 
 [Site](https://www.dig-em.com/) [Repo](https://github.com/prgmd/digem)
 
 ### NEVES `2025.10 ~ 2025.12`
 
 - 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스
-- MSA 설계, 인프라 구축
+- 사용자, 재생, 메일 서비스 분리, Terraform으로 AWS 인프라 코드화, Helm으로 쿠버네티스 배포 구성
+- `Python` `Django` `Go` `Java` `React` `AWS` `Terraform` `Kubernetes` `Helm` `Docker`
 
 [Repo](https://github.com/LuckyThreeSeven/WebApp)
 
 ### beautalk `2026.05 ~ 2026.06`
 
 - 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
-- 백엔드 개발, 하이브리드 RAG 구현
+- 백엔드 개발, 하이브리드 RAG 검색 구현
+- `Python` `Django` `DRF` `Vue 3` `LangChain` `ChromaDB` `AWS` `Docker` `Nginx`
 
 [Site](https://beautalk.site) [Repo](https://github.com/prgmd/beautalk)
 
@@ -60,15 +61,4 @@
 
 <br/>
 
-<div align="center">
-  <pre>
-  ____   ___  ____  _____ __  __ 
- |  _ \ |_ _|/ ___|| ____|  \/  |
- | | | | | || |  _ |  _| | |\/| |
- | |_| | | || |_| || |___| |  | |
- |____/ |___|\____||_____|_|  |_|
-   "dig your uncut gems"
-  </pre>
 
-  <a href="https://dig-em.com"><img src="https://img.shields.io/badge/dig--em.com-4169E1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</div>
