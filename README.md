@@ -7,8 +7,6 @@
  \___/_/   \_\_| \_|\____|  \___/ \___/|_| \_| |_| |_|  \_/\_/_/   \_\_| \_|
   </pre>
 
-  <a href="https://canva.link/qxksb3mem6jxwsw"><img src="https://img.shields.io/badge/Resume-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /></a>
-  <a href="https://github.com/prgmd/prgmd/raw/main/JangJunHwan-portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-EC1C24?style=for-the-badge&logo=files&logoColor=white" /></a>
 </div>
 
 ---
