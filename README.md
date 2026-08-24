@@ -13,6 +13,14 @@
 ---
 
 <div align="center">
+  <a href="https://solved.ac/profile/trackcamp">
+    <img src="solvedac-trackcamp-v1.svg" alt="solved.ac trackcamp" width="560">
+  </a>
+</div>
+
+---
+
+<div align="center">
 
 ### digem `2025.05 ~`
 
@@ -69,17 +77,5 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 Spring Security 기반 OAuth2와 JWT 인증 구현, DB 스키마 설계, Docker 컨테이너화와 AWS EC2 CI/CD 구축
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![STOMP](https://img.shields.io/badge/STOMP-000000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-## 🧩 Algorithm
-
-<a href="https://solved.ac/profile/trackcamp">
-  <img src="solvedac-trackcamp-v1.svg" alt="solved.ac trackcamp" width="560">
-</a>
 
 </div>
