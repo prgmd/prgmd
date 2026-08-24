@@ -74,8 +74,10 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 
 #### 여행 일정을 조각으로 이어 붙이며 팀이 하나의 보드에서 함께 계획을 완성하는 실시간 협업 플랫폼
 
-Spring Security 기반 OAuth2와 JWT 인증 구현, DB 스키마 설계, Docker 컨테이너화와 AWS EC2 CI/CD 구축
+실시간 op 브로드캐스트 파이프라인과 유실 복구, 편집 락과 동시성 제어, 락 순서 데드락 해소, 그룹과 프로젝트 도메인 API, DB 스키마와 인덱스 설계
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![STOMP](https://img.shields.io/badge/STOMP-000000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+[Repo](https://github.com/prgmd/ieumgil) [발표 자료](https://drive.google.com/file/d/1vA0zFCZVCyGRHxmshQmdplJXF4VZhfX2/view?usp=sharing)
 
 </div>
