@@ -35,6 +35,16 @@
 
 <br/>
 
+## 🧩 Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/profile/trackcamp">
+    <img src="solvedac-trackcamp-v1.svg" alt="solved.ac trackcamp" width="560">
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
   <pre>
   ____   ___  ____  _____ __  __ 
