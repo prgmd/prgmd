@@ -27,11 +27,11 @@
 
 ## 📂 Projects
 
-| 기간 | 프로젝트 | 역할 | 설명 | 링크 |
-|:---:|:---|:---:|:---|:---:|
-| `25.05~` | **digem** | Full-Stack | 해외 음악 웹진의 칼럼을 자동 수집·AI 번역해 아카이빙하는 서버리스 ETL 서비스 | [Site](https://www.dig-em.com/) · [Repo](https://github.com/prgmd/digem) |
-| `25.10~25.12` | **NEVES** | MSA·Infra | 대용량 블랙박스 영상을 클라우드에 실시간 적재·재생하는 MSA 서비스 | [Repo](https://github.com/LuckyThreeSeven/WebApp) |
-| `26.05~26.06` | **beautalk** | Backend·AI | 피부 프로필 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스 | [Site](https://beautalk.site) · [Repo](https://github.com/prgmd/beautalk) |
+**digem** — 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스다. 2025년 5월부터 Full-Stack으로 개발하고 있다. [Site](https://www.dig-em.com/), [Repo](https://github.com/prgmd/digem)
+
+**NEVES** — 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스다. 2025년 10월부터 12월까지 MSA 설계와 인프라를 맡았다. [Repo](https://github.com/LuckyThreeSeven/WebApp)
+
+**beautalk** — 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스다. 2026년 5월부터 6월까지 백엔드와 AI를 담당했다. [Site](https://beautalk.site), [Repo](https://github.com/prgmd/beautalk)
 
 <br/>
 
