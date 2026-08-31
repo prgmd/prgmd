@@ -41,13 +41,17 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 
 ### NEVES `2025.10 ~ 2025.12`
 
-#### 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스
+#### 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스 — 팀 6인
 
-사용자, 재생, 메일 서비스 분리, Terraform으로 AWS 인프라 코드화, Helm으로 쿠버네티스 배포 구성
+**담당: 이메일 인증 회원가입 플로우, 메일 발송 서비스 연동, 메일 템플릿 팩토리**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+인증 코드 발급·만료·즉시 무효화 설계, 발송 실패와 연결 실패 구분, 템플릿 팩토리로 메일 종류 확장
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [Repo](https://github.com/LuckyThreeSeven/WebApp) [발표 자료](https://drive.google.com/file/d/1A-0m88RqwNocBRPxg8aXCVVHwPpvE6UF/view)
+
+<sub>스트리밍 파이프라인과 인프라(Terraform·Kubernetes)는 다른 팀원이 담당했습니다.</sub>
 
 </div>
 
