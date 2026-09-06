@@ -7,15 +7,10 @@
  \___/_/   \_\_| \_|\____|  \___/ \___/|_| \_| |_| |_|  \_/\_/_/   \_\_| \_|
   </pre>
 
+  <a href="https://github.com/prgmd/prgmd/raw/main/JangJunHwan-portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-EC1C24?style=for-the-badge&logo=files&logoColor=white" /></a>
 </div>
 
 ---
-
-<div align="center">
-
-**[포트폴리오 (PDF)](JangJunHwan-portfolio.pdf)**
-
-</div>
 
 <div align="center">
   <a href="https://solved.ac/profile/trackcamp">
