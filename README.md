@@ -7,6 +7,7 @@
  \___/_/   \_\_| \_|\____|  \___/ \___/|_| \_| |_| |_|  \_/\_/_/   \_\_| \_|
   </pre>
 
+  <a href="https://github.com/prgmd/prgmd/raw/main/JangJunHwan-portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-EC1C24?style=for-the-badge&logo=files&logoColor=white" /></a>
 </div>
 
 ---
@@ -21,7 +22,7 @@
 
 <div align="center">
 
-### digem `2025.05 ~`
+### digem `2025.08 ~`
 
 #### 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스
 
@@ -39,11 +40,11 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 
 <div align="center">
 
-### NEVES `2025.10 ~ 2025.12`
+### NEVES `2025.08 ~ 2025.11`
 
 #### 대용량 블랙박스 영상을 클라우드에 실시간으로 적재하고 재생하는 MSA 서비스 — 팀 6인
 
-**담당: 이메일 인증 회원가입 플로우, 메일 발송 서비스 연동, 메일 템플릿 팩토리**
+팀 프로젝트. 회원가입과 이메일 인증 플로우, 메일 발송 서비스 연동, 이메일 템플릿 팩토리 구현. Jaeger로 메일 전송 병목 추적 (인프라와 스트리밍은 팀 담당)
 
 인증 코드 발급·만료·즉시 무효화 설계, 발송 실패와 연결 실패 구분, 템플릿 팩토리로 메일 종류 확장
 
@@ -63,7 +64,7 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 
 #### 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
 
-백엔드 개발, 하이브리드 RAG 검색 구현
+2인 팀. 백엔드와 인프라 전담. 상품 306종 수집과 정제, SQL 필터와 벡터 검색을 결합한 추천 구조 설계, 응답 25초를 3.6초로 단축
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square) ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/gpt--4o-412991?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
