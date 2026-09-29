@@ -22,6 +22,58 @@
 
 <div align="center">
 
+### Finch `2026.08 ~ 2026.09`
+
+#### 실시간 시세로 국내 주식을 모의 매매하고, AI가 계좌와 시장 데이터를 근거로 설명하는 모의투자 서비스 — 팀 5인
+
+인프라와 운영 환경 전담. Docker Compose에서 k3s로 전환하고 Helm 차트 배포, Ingress와 TLS 이관, 관측 스택 이식, CI 설정 검증까지 완주
+
+로그 로테이션과 컨테이너 메모리 상한, 이미지 정리 cron, 헬스체크, 내부 AI 서비스 노출 차단. 배포 파이프라인에 healthy 대기와 스모크 테스트 추가
+
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+[Infra Repo](https://github.com/Team-FINCH/finch-infra) [Team](https://github.com/Team-FINCH) [문서와 설계](https://github.com/Team-FINCH/finch-docs)
+
+<sub>도메인 로직과 프론트엔드, AI 기능은 다른 팀원이 담당했습니다.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 이음길 `2026.07 ~ 2026.08`
+
+#### 여행 일정을 조각으로 이어 붙이며 팀이 하나의 보드에서 함께 계획을 완성하는 실시간 협업 플랫폼
+
+실시간 op 브로드캐스트 파이프라인과 유실 복구, 편집 락과 동시성 제어, 락 순서 데드락 해소, 그룹과 프로젝트 도메인 API, DB 스키마와 인덱스 설계
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![STOMP](https://img.shields.io/badge/STOMP-000000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+[Repo](https://github.com/prgmd/ieumgil) [발표 자료](https://drive.google.com/file/d/1vA0zFCZVCyGRHxmshQmdplJXF4VZhfX2/view?usp=sharing)
+
+</div>
+
+---
+
+<div align="center">
+
+### beautalk `2026.05 ~ 2026.06`
+
+#### 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
+
+2인 팀. 백엔드와 인프라 전담. 상품 306종 수집과 정제, SQL 필터와 벡터 검색을 결합한 추천 구조 설계, 응답 25초를 3.6초로 단축
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square) ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/gpt--4o-412991?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+[Repo](https://github.com/prgmd/beautalk) [발표 자료](https://drive.google.com/file/d/1HtXHQ51Gx0hAQJea4NhGExRa2KNZrCsh/view)
+
+</div>
+
+---
+
+<div align="center">
+
 ### digem `2025.08 ~`
 
 #### 해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 서버리스 ETL 서비스
@@ -46,44 +98,12 @@ Airflow와 GitHub Actions로 수집 파이프라인 자동화, 다중 소스 스
 
 팀 프로젝트. 회원가입과 이메일 인증 플로우, 메일 발송 서비스 연동, 이메일 템플릿 팩토리 구현. Jaeger로 메일 전송 병목 추적 (인프라와 스트리밍은 팀 담당)
 
-인증 코드 발급·만료·즉시 무효화 설계, 발송 실패와 연결 실패 구분, 템플릿 팩토리로 메일 종류 확장
+인증 코드 발급, 만료, 즉시 무효화 설계, 발송 실패와 연결 실패 구분, 템플릿 팩토리로 메일 종류 확장
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [Repo](https://github.com/LuckyThreeSeven/WebApp) [발표 자료](https://drive.google.com/file/d/1A-0m88RqwNocBRPxg8aXCVVHwPpvE6UF/view)
 
-<sub>스트리밍 파이프라인과 인프라(Terraform·Kubernetes)는 다른 팀원이 담당했습니다.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### beautalk `2026.05 ~ 2026.06`
-
-#### 피부 프로필을 기반으로 화장품을 추천하는 하이브리드 RAG 챗봇 서비스
-
-2인 팀. 백엔드와 인프라 전담. 상품 306종 수집과 정제, SQL 필터와 벡터 검색을 결합한 추천 구조 설계, 응답 25초를 3.6초로 단축
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square) ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/gpt--4o-412991?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-[Repo](https://github.com/prgmd/beautalk) [발표 자료](https://drive.google.com/file/d/1HtXHQ51Gx0hAQJea4NhGExRa2KNZrCsh/view)
-
-</div>
-
----
-
-<div align="center">
-
-### 이음길 `2026.07 ~ 2026.08`
-
-#### 여행 일정을 조각으로 이어 붙이며 팀이 하나의 보드에서 함께 계획을 완성하는 실시간 협업 플랫폼
-
-실시간 op 브로드캐스트 파이프라인과 유실 복구, 편집 락과 동시성 제어, 락 순서 데드락 해소, 그룹과 프로젝트 도메인 API, DB 스키마와 인덱스 설계
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![STOMP](https://img.shields.io/badge/STOMP-000000?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
-
-[Repo](https://github.com/prgmd/ieumgil) [발표 자료](https://drive.google.com/file/d/1vA0zFCZVCyGRHxmshQmdplJXF4VZhfX2/view?usp=sharing)
+<sub>스트리밍 파이프라인과 인프라(Terraform, Kubernetes)는 다른 팀원이 담당했습니다.</sub>
 
 </div>
