@@ -25,7 +25,7 @@ Ingress와 TLS 이관, Prometheus와 Loki, Grafana 관측 스택 이식, CI 설�
 로그 로테이션, 컨테이너 메모리 상한, 이미지 정리, 헬스체크, 내부 AI 서비스 노출 차단<br>
 배포 파이프라인에 healthy 대기와 스모크 테스트 추가
 
-![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<img src="icons/k3s.svg" width="40" height="40" alt="k3s" title="k3s" /> <img src="icons/helm.svg" width="40" height="40" alt="Helm" title="Helm" /> <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" title="Jenkins" /> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" title="Nginx" /> <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" title="Prometheus" /> <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" title="Grafana" />
 
 <a href="https://github.com/Team-FINCH/finch-infra"><img src="https://img.shields.io/badge/Infra%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/Team-FINCH"><img src="https://img.shields.io/badge/Team-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/Team-FINCH/finch-docs"><img src="https://img.shields.io/badge/%EB%AC%B8%EC%84%9C%EC%99%80%20%EC%84%A4%EA%B3%84-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -42,7 +42,7 @@ Ingress와 TLS 이관, Prometheus와 Loki, Grafana 관측 스택 이식, CI 설�
 락 획득 순서를 한 방향으로 통일해 교착 경로 차단<br>
 그룹, 프로젝트, 회원 도메인 API, 그룹 목록 조회는 그룹 수와 무관하게 쿼리 3회로 고정
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![STOMP](https://img.shields.io/badge/STOMP-000000?style=flat-square)
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" title="Spring Boot" /> <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="JPA (Hibernate)" title="JPA (Hibernate)" /> <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" title="Redis" /> <img src="icons/stomp.svg" width="40" height="40" alt="STOMP" title="STOMP" />
 
 <a href="https://github.com/prgmd/ieumgil"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vA0zFCZVCyGRHxmshQmdplJXF4VZhfX2/view?usp=sharing"><img src="https://img.shields.io/badge/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
@@ -59,7 +59,7 @@ Ingress와 TLS 이관, Prometheus와 Loki, Grafana 관측 스택 이식, CI 설�
 구간별 계측으로 병목을 찾아 LLM 호출 24초를 3.6초로 단축<br>
 Docker와 Nginx로 AWS EC2에 배포
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-333333?style=flat-square) ![OpenAI](https://img.shields.io/badge/gpt--4o-412991?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /> <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /> <img src="icons/pgvector.svg" width="40" height="40" alt="pgvector" title="pgvector" /> <img src="icons/openai.svg" width="40" height="40" alt="gpt-4o" title="gpt-4o" /> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />
 
 <a href="https://github.com/prgmd/beautalk"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1HtXHQ51Gx0hAQJea4NhGExRa2KNZrCsh/view"><img src="https://img.shields.io/badge/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
@@ -76,7 +76,7 @@ GitHub Actions와 Airflow로 수집, 번역, 적재를 매일 자동 실행<br>
 번역 실패를 유형별로 기록해 재시도, 대기, 분할, 사람 확인으로 나누고 테스트로 고정<br>
 SQL 쿼리 최적화와 본문 지연 로드
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="icons/airflow.svg" width="40" height="40" alt="Airflow" title="Airflow" /> <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase" /> <img src="icons/gemini.svg" width="40" height="40" alt="Gemini" title="Gemini" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" />
 
 <a href="https://www.dig-em.com/"><img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/prgmd/digem"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -94,7 +94,7 @@ SQL 쿼리 최적화와 본문 지연 로드
 메일 발송 서비스 연동, 발송 실패와 연결 실패 구분<br>
 템플릿 팩토리로 메일 종류 확장
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /> <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI" /> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />
 
 <a href="https://github.com/LuckyThreeSeven/WebApp"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1A-0m88RqwNocBRPxg8aXCVVHwPpvE6UF/view"><img src="https://img.shields.io/badge/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
