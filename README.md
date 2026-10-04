@@ -10,7 +10,7 @@
   <a href="https://github.com/prgmd/prgmd/raw/main/JangJunHwan-portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-EC1C24?style=for-the-badge&logo=files&logoColor=white" /></a>
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -99,8 +99,6 @@ SQL 쿼리 최적화와 본문 지연 로드
 <a href="https://github.com/LuckyThreeSeven/WebApp"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1A-0m88RqwNocBRPxg8aXCVVHwPpvE6UF/view"><img src="https://img.shields.io/badge/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
 <br>
-
-## Algorithm
 
 <a href="https://solved.ac/profile/trackcamp">
   <img src="solvedac-trackcamp-v1.svg" alt="solved.ac trackcamp" width="560">
