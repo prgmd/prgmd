@@ -71,12 +71,12 @@ Docker와 Nginx로 AWS EC2에 배포
 
 **해외 음악 웹진의 칼럼을 자동 수집하고 AI로 번역해 아카이빙하는 ETL 서비스**
 
-GitHub Actions와 Airflow로 수집, 번역, 적재를 매일 자동 실행<br>
+GitHub Actions로 수집, 번역, 적재를 매일 자동 실행<br>
 매체마다 다른 스크래퍼를 공통 흐름으로 구조화<br>
 번역 실패를 유형별로 기록해 재시도, 대기, 분할, 사람 확인으로 나누고 테스트로 고정<br>
 SQL 쿼리 최적화와 본문 지연 로드
 
-<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="icons/airflow.svg" width="40" height="40" alt="Airflow" title="Airflow" /> <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase" /> <img src="icons/gemini.svg" width="40" height="40" alt="Gemini" title="Gemini" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase" /> <img src="icons/gemini.svg" width="40" height="40" alt="Gemini" title="Gemini" /> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" />
 
 <a href="https://www.dig-em.com/"><img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/prgmd/digem"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
