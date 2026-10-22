@@ -7,12 +7,28 @@
  \___/_/   \_\_| \_|\____|  \___/ \___/|_| \_| |_| |_|  \_/\_/_/   \_\_| \_|
   </pre>
 
-  <a href="https://github.com/prgmd/prgmd/raw/main/JangJunHwan-portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio%20PDF-EC1C24?style=for-the-badge&logo=files&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
+
+### Flux
+
+`2026.08 ~` &nbsp; 개인 프로젝트, 데이터 파이프라인과 분석 모델
+
+**음악 청취 로그와 아티스트 메타데이터를 정제해 곡과 아티스트의 월별 및 연간 청취 흐름을 분석하는 배치 데이터 파이프라인**
+
+ListenBrainz 청취 로그 약 1.6억 건을 Bronze, 월별 Silver, Gold로 정제<br>
+MusicBrainz 공식 크레딧을 연결해 월별 및 연간 분석 마트 14개 구축<br>
+청취 횟수와 고유 청취자 수를 구분하고, DuckDB 독립 재계산으로 결과 대조<br>
+고정 표본에서 Delta CDF 증분 처리와 일부 Gold의 dbt 모델 이전 검증
+
+<img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" /> <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" height="40" alt="PySpark" title="PySpark" /> <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="40" height="40" alt="DuckDB" title="DuckDB" /> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />
+
+<a href="https://github.com/prgmd/flux"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br>
 
 ### Finch
 
